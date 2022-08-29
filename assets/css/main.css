@@ -3319,7 +3319,7 @@ input, select, textarea {
 		position: relative;
 		width: 100%;
 		padding-bottom:56.25%;
-		height:0
+		height:0;
 	}
 
 	.video iframe {

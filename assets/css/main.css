@@ -2047,6 +2047,9 @@ input, select, textarea {
 		}
 
 /* Image */
+	.video {
+		height:350
+	}
 
 	.image {
 		border-radius: 5px;

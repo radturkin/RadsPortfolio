@@ -2052,7 +2052,7 @@ input, select, textarea {
 		border-radius: 5px;
 		border: 0;
 		display: inline-block;
-		position: absolute;
+		position: relative;
 	}
 
 		.image[data-position] img {
